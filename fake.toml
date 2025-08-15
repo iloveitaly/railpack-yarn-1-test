@@ -1,2 +1,0 @@
-[settings]
-disable_backends = ["vfox:yarn"]  # Don't use these backends
